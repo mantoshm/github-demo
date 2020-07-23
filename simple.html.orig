@@ -1,0 +1,22 @@
+<html>
+<Head>
+<<<<<<< HEAD
+<style>
+body{
+background-color:blue;
+padding:1rem;
+}
+</style>
+</Head>
+<title>Very respectable website</title>
+<body>
+<h1>Hi noone</h1>
+<p>Hi,there<p/>
+=======
+<title>Awesome website</title>
+<body>
+<h1>Hi Everyone</h1>
+<p>Welcome,all</p>
+>>>>>>> newbranch
+</body>
+</html>
